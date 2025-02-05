@@ -1,1 +1,1 @@
-# BootstrapWebsite
+Dog Lovers Hub is a modern and unique one-page website dedicated to dog enthusiasts. Built using HTML, CSS, and Bootstrap, it offers a seamless browsing experience with a clean and responsive design. The site features an engaging hero section, informative breed details, and an easy-to-access contact section. Designed for simplicity and usability, this website provides a visually appealing way to learn more about different dog breeds. For inquiries, contact us at gulhan.mor@egeacademy.ca
